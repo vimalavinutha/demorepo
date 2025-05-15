@@ -6,6 +6,8 @@ public class Demo {
 		System.out.println("Helloworld");
 		
 	 System.out.println("welcome home");
+	 
+	 System.out.println("Tea or Coffee");
 
 	}
 
